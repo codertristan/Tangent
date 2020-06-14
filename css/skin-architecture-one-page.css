@@ -357,8 +357,8 @@ body,
 
 /* charcoal */
 .bkg-charcoal-light{
-	background-color: #333; 
-	border-color: #333;
+	background-color: #296e9b; 
+	border-color: #296e9b;
 }
 .bkg-hover-charcoal-light:hover{
 	background-color: #333; 
@@ -372,8 +372,8 @@ body,
 	color: #333;
 }
 .bkg-charcoal{
-	background-color: #151515; 
-	border-color: #151515;
+	background-color: #399ee2; 
+	border-color: #399ee2;
 }
 .bkg-hover-charcoal:hover{
 	background-color: #151515; 
@@ -2866,7 +2866,7 @@ textarea.required-field{
 /* Footer Background */
 .footer{
 	width: 100%;
-	background: #232323;
+	background: #296E9B;
 	color: #666;
 	z-index: 1;
 }
@@ -3784,4 +3784,8 @@ only screen and (				min-resolution: 2dppx) {
 	.signup-2-1{
 		background-image: url(../images/architecture/generic/signup-1@2x.jpg);
 	}
+}
+
+.azulito{
+  color: #399ee2; 
 }
